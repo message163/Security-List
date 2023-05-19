@@ -170,6 +170,9 @@
 - https://www.marinetraffic.com/en/ais/home/centerx:5.4/centery:50.8/zoom:2    --全球船舶跟踪情报
 - https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx    --美国联邦航空管理局（FAA）注册的所有飞机的登记册
 - https://www.nicb.org/vincheck    --美国保险公司被盗车辆查询
+### 社工库查询
+1. https://breached.to/    --BreachForums数据泄漏
+- https://github.com/kallydev/privacy    --数据结构化查询。
 
 # OSINT信息搜集
 - http://www.scribd.com/document/72008744/OSINT-Cheat-Sheet    --OSINT Cheat Sheet信息收集技巧
@@ -195,13 +198,15 @@
 - https://www.reg007.com/    --注册过哪家网站app
 - https://github.com/rtcatc/check-your-weibo    --微博互关检测脚本
 ### Twitter信息分析
-- https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    --公众号：【工具】一些与Twitter相关的情报分析工具
-- http://accountanalysis.app/    --twitter账号分析工具
+1. https://mp.weixin.qq.com/s/sGPE-CUdTmn-p_nafhGVfg    --公众号：【工具】一些与Twitter相关的情报分析工具
+2. https://en.whotwi.com/     --Twitter可视化分析工具
+3. http://accountanalysis.app/    --twitter账号分析工具
 - https://github.com/haccer/tweep    --使用twitter API进行信息爬取查询
 - https://github.com/MazenElzanaty/TwLocation    --Py。获取Twitter用户发推的地址
 - https://github.com/vaguileradiaz/tinfoleak    --对twitter账户进行全面的分析。WebGui。
 - https://github.com/sowdust/tafferugli    --Py。twitter分析框架，对tweets进行收集、过滤、分析。WebGui。
-### 企业人员信息搜集
+## 企业信息搜集
+1. https://github.com/wgpsec/ENScan_GO    --Golang。基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 - https://hunter.io/    --企业邮箱搜集。商业版。
 - https://www.aihitdata.com/    --全球公司信息变更汇总（地址、所有人、联系方式）。可结合天眼查\企查查
 - https://github.com/vysec/MaiInt    --公司雇员信息收集测试工具

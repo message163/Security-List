@@ -11,8 +11,6 @@
 - https://github.com/clymb3r/Misc-Windows-Hacking    --VS2019MFC编译工程。基于LSA调用PasswordFileter检查密码复杂性、调用PasswordChangeNotify同步密码，通过管理员权限DLL注入内存记录密码内容，通过修改`HookPasswordChange.cpp代码132行`修改输出路径。
 - https://github.com/ggerganov/kbd-audio    --C++。Linux下利用麦克风捕获键盘输入，分析输入内容。goodjob。
 - https://github.com/maxchehab/CSS-Keylogging    --Chrome扩展程序。Express服务器利用CSS进行键盘记录。
-### 社工库查询
-- https://github.com/kallydev/privacy    --数据结构化查询。
 ### 虚拟身份
 - https://www.fakenamegenerator.com/    --多国身份信息模拟器
 - https://github.com/gh0stkey/RGPerson    --Py。随机身份生成脚本
@@ -110,9 +108,10 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 - https://www.anquanke.com/post/id/195011    --暗度陈仓：基于国内某云的 Domain Fronting 技术实践。CDN域前置。
 - https://www.freebuf.com/sectool/232555.html    --利用Cloudflare Worker来隐藏C2基础设施。CDN域前置。G:/Berkeley-Reject/workers-proxy;--
 - https://www.anquanke.com/post/id/220868    --TechTeach。利用heroku（容器云平台）服务器隐藏C2。
-- https://mp.weixin.qq.com/s/Vrd8hWgPnK1bh1Ggj33NtQ    --一个基于区块链网络的匿名远控。P:CobaltStrike 区块链网络上线方式及检测;G:/Maka8ka/NGLite;G:/nknorg/nkn-tunnel;--
+- https://mp.weixin.qq.com/s/Vrd8hWgPnK1bh1Ggj33NtQ    --基于NKN网络匿名远控。P:CobaltStrike 区块链网络上线方式及检测;G:/Maka8ka/NGLite;G:/nknorg/nkn-tunnel;--
 ### 隐匿流量洋葱路由
-- https://www.torproject.org/    --洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
+1. https://www.torproject.org/    --洋葱浏览器。P:/dnmugu4755642434.onion/ kilos搜索引擎;--
+2. https://github.com/cretz/bine    --Golang。go语言的tor控制sdk
 - https://github.com/globaleaks/Tor2web    --darkweb暗网代理服务器，将onion的服务变为普通的服务
 - https://github.com/milesrichardson/docker-onion-nmap    --使用nmap扫描Tor网络上隐藏的"onion"服务
 - https://github.com/GouveaHeitor/nipe    --一个使所有流量通过Tor网络发出的脚本
@@ -130,6 +129,7 @@ W:ns4gov.000webhostapp.com;W:smtp2go.com/;--
 ### 攻击人物画像
 - https://github.com/Valve/fingerprintjs2    --JS。被动式浏览器全指纹库获取。goodjob。Browser Fingerprinting via OS and Hardware Level Features。
 - https://github.com/Song-Li/cross_browser    --JS。被动式跨浏览器指纹追踪识别，支持硬件特征（显卡、cpu核数等）识别。P:指纹追踪技术—跨浏览器指纹识别;P:/crossbrowsertracking_NDSS17.pdf;--
+- https://www.yalala.com/    --浏览器指纹在线检测网站
 - https://www.anquanke.com/post/id/216259    --设备指纹指南 上下。P:/post/id/216262;--
 - https://github.com/WMJonssen/Centcount-Analytics    --PHP。数据库mysql/redis，网站分析软件，支持浏览器指纹、事件追踪、鼠标轨迹。
 - https://github.com/jbtronics/CrookedStyleSheets    --php。使用CSS实现网页追踪 / 分析，用户鼠标轨迹捕捉。

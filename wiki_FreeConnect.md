@@ -13,10 +13,12 @@
 - https://github.com/huiyadanli/RevokeMsgPatcher    --C#。A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回 双开。
 - https://github.com/ferredoxin/QNotified    --QQ开源Xposed模块
 ### 自动回复WebHook
-- http://sc.ftqq.com/3.version    --ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;G:/zhuifengshen/DingtalkChatbot;P:/telegram机器人TG BOT;--
-- https://github.com/littlecodersh/itchat    --Py。微信个人号接口API、微信机器人及命令行微信。G:/youfou/wxpy;--
-- https://github.com/codingtoworld/wxrobot    --Py。WebGui微信机器人
-- https://github.com/MustangYM/WeChatExtension-ForMac/    /微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:/TKkk-iOSer/WeChatPlugin-MacOS;--
+1. https://github.com/nonebot/nonebot2    --py。跨平台 Python 异步聊天机器人框架
+2. 三步教你用Node做一个微信脱单神器，小白可上手 | Wechaty - https://wechaty.js.org/2019/06/21/three-step-get-girlfriend/
+3. https://github.com/fuergaosi233/wechat-chatgpt    --chatgpt openapi 微信机器人
+4. http://sc.ftqq.com/3.version    --ServerChan信息通知server酱方糖信息提醒。P:/slack机器人;P:/企业微信机器人;P:/钉钉机器人;G:/zhuifengshen/DingtalkChatbot;P:/telegram机器人TG BOT;--
+- https://github.com/littlecodersh/itchat    --Py。微信个人号接口API、微信机器人及命令行微信。G:/youfou/wxpy;G:/codingtoworld/wxrobot;--
+- https://github.com/MustangYM/WeChatExtension-ForMac/    微信插件助手，自动回复、检测僵尸粉、免登陆认证多开等。G:/TKkk-iOSer/WeChatPlugin-MacOS;--
 - https://github.com/lmk123/oh-my-wechat    --WeChatExtension-ForMac自动安装脚本。
 ### 实时通讯
 - https://mattermost.com/    --协同办公通讯。W:github.com/mattermost;--
@@ -51,9 +53,9 @@
 - https://github.com/anonaddy/anonaddy    --php。邮件匿名转发，白名单过滤
 ### 国内手机接码平台
 - https://sms.cngrok.com/receiving-sms/    --短信码上到-掠影网络，国内临时接码的
-- https://www.becmd.com/    --免费接码 - 免费短信验证码接收平台
-- https://www.pdflibr.com/    --云短信 - 在线短信接收 中国,美国,菲律宾
-- https://yunduanxin.net/    --免费接短信,在线接收短信验证码 - 云短信帮助您从世界任何地方接收手机短信
+- https://www.becmd.com/    --免费接码 免费短信验证码接收平台
+- https://www.pdflibr.com/    --云短信 在线短信接收 中国,美国,菲律宾
+- https://yunduanxin.net/    --免费接短信，在线接收短信验证码 - 云短信帮助您从世界任何地方接收手机短信
 - http://www.shejiinn.com/    --免费接码|短信验证码|在线接收短信|接码平台 - 中国,缅甸,美国
 - http://z-sms.com/    --Z-SMS - 中国,美国,缅甸,爱沙尼亚
 ### 国外手机接码平台

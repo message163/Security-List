@@ -4,7 +4,6 @@
 - http://www.owasp.org.cn/owasp-project/owasp-things    --OWASP项目
 - https://github.com/irsdl/top10webseclist/    --十大网络黑客技术列表。
 - https://github.com/SecWiki/sec-chart    --安全思维导图集合。G：Mayter/sec-charts;--
-- https://github.com/Ascotbe/Osmographic-brain-mapping    --安全思维脑图。ctf/web/二进制/ai/区块链/业务/主机/社工/移动/无线/运维/风控
 - https://github.com/tom0li/collection-document    --安全部/攻防/内网/Web/apt/漏洞预警/开发/Bug Bounty/SDL/SRC
 - https://github.com/secure-data-analysis-data-sharing/data-analysis    --资料分为安全态势、攻防对抗、数据分析、威胁情报、应急响应、物联网安全、企业安全建设、其他书籍八部分
 - https://github.com/hongriSec/AI-Machine-Learning-Security    --机器学习算法、AI模型、渗透测试工具
@@ -114,6 +113,7 @@
 - https://bbs.pediy.com/thread-263979.htm    --[原创]《逆向分析-使用关键字进行功能破解》 
 
 ## 学习漏洞挖掘
+1. RCE宝典公开，全民RCE的时代到来 - https://mp.weixin.qq.com/s/p7aOrpvustNYslCYGz5_iw
 - https://github.com/FULLSHADE/WindowsExploitationResources/    --Windows漏洞高级开发资源合集，windows rootkit，windows调试，内核shellcode，沙箱，Fuzz等资料。
 - https://www.52pojie.cn/thread-709699-1-1.html    --160个CrackMe，附破解方法。
 - https://github.com/euphrat1ca/0day-security-software-vulnerability-analysis-technology    --0day安全：软件漏洞分析技术（第2版）。漏洞战争：软件漏洞分析精要、加密与解密（第4版）、modern windows exploit、cnit的二进制教程、awesome windows exploit;--

@@ -1,4 +1,5 @@
 # 风险解决方案
+1. https://tech.meituan.com/tags/安全.html    --美团技术团队wiki
 - https://www.nist.gov/topics/cybersecurity    --美国国家标准与技术研究院。NVD漏洞库
 - https://www.mitre.org/publications/all    --mitre安全机构。CVE漏洞库
 - https://www.alibabacloud.com/blog    --阿里安全建设
@@ -19,7 +20,6 @@
 - https://cybermap.kaspersky.com/    --卡巴斯基(Kaspersky)的“网络实时地图”
 - http://www.digitalattackmap.com/    --Arbor networks的由全球270个ISPs匿名分享流量的“数字攻击地图”
 - https://hubble.nexusguard.com    --Nexusguard Hubble攻击地图
-- https://echarts.baidu.com/examples/index.html#chart-type-globe    --Echart图
 - https://book.yunzhan365.com/dksd/oyru/mobile/index.html    --基于攻击链的网络威胁捕猎架构设计原型
 - http://www.colasoft.com.cn/download/network-defense-map-2018.pdf    --科来网络攻击与防范图谱
 - https://www.jianshu.com/p/852e0fbe2f4c    --安全产品厂商分类
@@ -58,17 +58,17 @@
 - https://github.com/alibaba/arthas    --Java诊断工具
 
 ## 低代码平台
-- https://github.com/imcuttle/mometa    --TypeScript。弱代码元编程，代码可视编辑，辅助编码工具
-- https://yaoapps.com/    --Go。通过JSON的无代码开发套件。G:/YaoApp/yao;--
-- https://copilot.github.com    --GPT-3训练自动匹配代码结构，AI自动写代码。
-- https://github.com/sparrow-js/sparrow    --Js。低代码平台
+1. https://github.com/Tencent/tmagic-editor    --typescript。腾讯低代码平台
+2. https://github.com/sparrow-js/sparrow    --Js。低代码平台
+3. https://github.com/imcuttle/mometa    --TypeScript。弱代码元编程，代码可视编辑，辅助编码工具
+4. https://yaoapps.com/    --Go。通过JSON的无代码开发套件。G:/YaoApp/yao;--
 
 ## 安全运维建设
 - https://github.com/aqzt/kjyw    --快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装、快速配置策略等。安全专题
 - https://github.com/openspug/spug/    --JS,Py。轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等功能。
 - https://github.com/ngbdf/redis-manager    --Java。Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作。
 - https://zhuanlan.zhihu.com/p/43716885/    --使用knockd管理高危端口。
-### 自动化运维管理
+### 自动化运维
 - https://github.com/n8n-io/n8n    --工作流自动化工具
 - https://github.com/caprover/one-click-apps    --自动化部署、一键打包应用。
 - https://github.com/Tencent/bk-job    --Java。蓝鲸作业平台（Job）脚本管理系统
@@ -93,14 +93,23 @@
 - https://www.cnblogs.com/jurendage/p/12653865.html    --TecTeach。Java生鲜电商平台-API接口设计之token、timestamp、sign 具体架构与实现（APP/小程序，传输安全）。
 - https://github.com/star7th/showdoc    --JS。开发文档、接口管理平台。
 - https://github.com/ymfe/yapi    --JS。可本地部署的、打通前后端及QA的、可视化的接口管理平台。goodjob。
-- https://github.com/mockoon/cli    --图形化api mock搭建工具，api管理。
+- https://github.com/mockoon/cli    --图形化api管理 数据mock工具，。
+- https://github.com/eolinker/eoapi    --TS。图形化接口管理
 - https://www.postman.com/    --API接口调试助手，一键生成demo代码，支持通过js插件进行测试。W:hookbin.com/;P:hackbar;P:CryptoJS;P:forgeJS;W:apifox.cn--
-### 负载均衡
-- https://github.com/github/glb-director    --负载均衡组件GLB，数据解析使用了dpdk。
 ### Nginx配置
 - https://github.com/bunkerity/bunkerized-nginx    --nginx安全镜像docker一键配置。
 - https://github.com/trimstray/nginx-admins-handbook    --nginx操作手册。8k
 - https://github.com/valentinxxx/nginxconfig.io/    --在线nginx配置文件生成，W:nginxconfig.io;--
+### 负载均衡
+- https://github.com/github/glb-director    --负载均衡组件GLB，数据解析使用了dpdk。
+- https://mp.weixin.qq.com/s/QmCLYfQgR8vJXX1MFow3ow    --不到3000块钱，如何支撑起每月500万次访问量及80TB流量的网站？
+### 系统运维
+- https://www.itsk.com/index.php    --IT天空，系统操作运维。
+- https://www.itsk.com/thread-401292-1-1.html    --it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
+- https://www.chuyu.me/zh-Hans/index.html    --DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
+- https://www.sordum.org/    --Windows免费工具，防火墙操作、权限控制、网络诊断等
+- https://github.com/RoliSoft/WSL-Distribution-Switcher    --Py3。Windows下Linux子系统WSL管理工具
+- https://wpd.app/    --消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
 
 ## 办公网安全建设
 - https://github.com/sgabe/SymlinkProtect    --Windows的文件系统微型过滤器驱动程序，用于阻止符号链接攻击。
@@ -186,7 +195,7 @@
 - https://github.com/knownsec/404StarLink-Project    --知道创宇404星链。goodjob。Kunlun-Mirror 白盒代码审计；LBot Xss bot模板；Zoomeye Tools chrome插件；wam webapp、行业动态监控平台；bin_extractor 二进制敏感信息；CookieTest 测试api或某个请求的必选参数、cookie脚本；ipstatistics 基于ipip库的筛选ip列表脚本；cidrgen 基于cidr的子网IP列表生成器。
 - https://github.com/LasCC/Hack-Tools    --渗透辅助
 - http://requestbin.net/    --Inspect HTTP Requests。获取客户端http、dns请求。requestbin.com。
-- https://github.com/BugScanTeam/DNSLog    --py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/allyomalley/dnsobserver;G:/projectdiscovery/interactsh-web/;G:/Buzz2d0/Hyuga;--
+- https://github.com/BugScanTeam/DNSLog    --py。四叶草基于django监控 DNS 解析记录和 HTTP 访问记录的工具，将 DNSServer 集成进 DNSLog 中，检测多种类型的blind漏洞。G:/lijiejie/eyes.sh;G:/allyomalley/dnsobserver;G:/projectdiscovery/interactsh-web/;G:/Buzz2d0/Hyuga;--
 - http://ceye.io    --知道创宇dns日志访问记录查询，可配合盲注、xss、解析对方真实ip使用。W:dnslog.cn/;W:app.interactsh.com;--
 - https://github.com/opensec-cn/vtest    --Py。安全工程师渗透测试辅助，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。
 - https://github.com/phith0n/conote-community    --Py。短域名+dnslog
@@ -230,35 +239,6 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings    --Web渗透/CTF/XXE/常用脚本命令payloads。8K,goodjob。
 - https://www.octority.com/pepenote/    --10w行渗透测试命令
 
-# 链上风险
-## 区块安全建设
-- https://github.com/xianlimei/yiwei.github.io/wiki    --私有云、区块链安全研究，rasp、waf、主机安全产品介绍
-- https://mp.weixin.qq.com/s/dHhMRtQP1GZ_juWTaIjzmA    --慢雾余弦:区块链生态安全是一场真枪实弹的战争
-### 智能合约安全
-- https://peckshield.medium.com/    --派盾安全审计报告
-- https://www.blocksecteam.com/    --合约设计报告
-- https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec    --《区块链安全入门与实战》
-- https://www.coinonpro.com/news/toutiao/199581.html    --闪电贷的攻击与防御
-- https://github.com/slowmist/eos-bp-nodes-security-checklist    --区块链checklist，EOS bp nodes security checklist（EOS超级节点安全执行指南）
-- https://www.freebuf.com/articles/blockchain-articles/176668.html    --空手套白狼？USDT 假充值逻辑缺陷漏洞利用分析，基于合约恶意授权获取用户支付权限。P:二维码盗 usdt 安全事件分析;--
-- https://paper.seebug.org/1546/    --智能合约漏洞系列 -- 运行平台科普篇
-- https://paper.seebug.org/1580/    --智能合约安全系列——EOS 菠菜应用篇
-- https://paper.seebug.org/1545/    --智能合约安全系列——百万合约之母以太坊的漏洞攻防术（下集）
-- https://mp.weixin.qq.com/s/ZxrBHgZ5a_IuU0nNySIlwA    --智能合约安全系列 -- 举一反三总结篇
-- https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA    --以太坊智能合约中的社会工程攻击
-- https://twitter.com/0x14os/status/1506212934212808713    --如何通过mint进行NFT钓鱼攻击分析记录
-### 智能合约审计
-- https://github.com/zjuchenyuan/whalerank    --追踪链上鲸鱼，合约互动行为分析。
-- https://github.com/defieye    --defi资金追踪
-- https://github.com/ConsenSys/mythril-classic    --以太坊智能协议区块链安全分析工具。
-- https://github.com/quoscient/octopus    --区块链智能合约安全分析工具。W:honeypot.is;--
-- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q    --公众号：区块链、以太坊智能合约审计 CheckList
-### 链上安全分析
-- https://github.com/dmuhs/teatime    --Py3。针对区块链节点信息泄露、开放账号、配置篡改的RPC渗透框架
-- https://github.com/Rivaill/ethtx_ce    --Py。以太坊交易分析工具，Peckshield EthTx 二开跨链。
-- https://github.com/GGCCCC/airdrop_multi_claim    --合约群撸空投羊毛工具
-- https://github.com/flashbots/simple-arbitrage    --夹子机器人
-
 ## IPv6安全建设
 - https://github.com/sfan5/fi6s    --ipv6端口快速扫描器
 - https://github.com/fgont/ipv6toolkit    --C。si6networks.com组织的ipv6工具集
@@ -271,6 +251,7 @@
 ## 合规建设
 - https://mp.weixin.qq.com/s/uD8xZse3TLH7vjzJOp_kxw    --网信办、工信部教我做产品！W:note.youdao.com/s/K4vFx4Ki --网信办、工信部学习资料（欢迎收藏备用）
 ### 合规安全
+1. https://github.com/bytedance/appshark    --Kotlin。字节移动端合规安全检测
 - https://github.com/momosecurity/bombus    --Vue,Py。依据为SOX法案陌陌开源的安全合规审计平台
 - https://mp.weixin.qq.com/s/IoVzbLSxPI3m3v47X8jB_A    --App合规实践3000问
 ### 等保安全
@@ -287,10 +268,12 @@
 - https://github.com/thinkst/canarytokens    --Py。重要文件的追踪溯源，信标定位（canarytokens.org/generate#）服务端代码/蜜标。
 
 ## 安全风控建设
+1. https://github.com/skyhackvip/risk_engine    --GOLANG。风控决策引擎系统。
 - https://github.com/threathunterX/nebula    --LUA,Perl。威胁猎人开源"星云"业务风控系统
 - https://github.com/momosecurity/aswan    --Py。陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - https://github.com/xdite/internet-security    --互联网金融企业安全与风控的实战手册。资安风控。
 - https://help.aliyun.com/document_detail/73845.html    --相同的card_id在十分钟内，在两个不同的location发生刷卡现象，就会触发报警机制，以便监测信用卡盗刷等现象。
+- https://mp.weixin.qq.com/s/KcTbNv88swlFIYIA1pFkLw    --每日优鲜非战斗亏损风控
 
 ## 安全运营建设
 - 公众号：终端安全运营年度笔记    --

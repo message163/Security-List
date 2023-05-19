@@ -2,11 +2,8 @@
  wiki_SelfServicerce
 
 # 自服务应用
-- https://www.bjinternetcourt.gov.cn/    --北京互联网法院
 - https://github.com/Kickball/awesome-selfhosted    --awesome系列之自服务应用
 - https://awesome-hub.com/    --Awesome 列表
-- https://pdos.csail.mit.edu/archive/scigen/    --SCIgen 学术文档虚拟文件生成钓鱼
-- https://lovelive.tools/    --说话的艺术 渣男语录
 - https://github.com/jxlwqq/id-validator.py    --Py3。居住证号码验证工具（Python 版）
 - https://github.com/EdgeTranslate/EdgeTranslate    --js。跨平台侧边翻译，多接口
 - https://www.kslabs.ru/    --ksweb安卓手机端建站
@@ -22,13 +19,6 @@
 - https://github.com/soimort/you-get    --Py。视频下载
 - https://github.com//aria2/aria2    --C++。下载器。
 - https://www.pconlife.com/    --Windows组件，微软依赖、DLL下载
-### 系统运维
-- https://www.itsk.com/index.php    --IT天空，系统操作运维。
-- https://www.itsk.com/thread-401292-1-1.html    --it天空easysysprep以微软系统准备工具 sysprep.exe 程序为核心， Windows 操作系统封装部署辅助工具。
-- https://www.chuyu.me/zh-Hans/index.html    --DISM++ Dism GUI，系统调试。Github:/Chuyu-Team/Dism-Multi-language;--
-- https://www.sordum.org/    --Windows免费工具，防火墙操作、权限控制、网络诊断等
-- https://github.com/RoliSoft/WSL-Distribution-Switcher    --Py3。Windows下Linux子系统WSL管理工具
-- https://wpd.app/    --消除Windows隐私监控。P:DWS(Destroy-Windows-10-Spying);G:/crazy-max/WindowsSpyBlocker;--
 ### 注册机keygen
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    --Py。putty远程服务管理工具，MobaXterm注册机。G:/HyperSine/;--
 - https://github.com/DoubleLabyrinth/navicat-keygen    --C。数据库管理工具Navicat 注册机。G:/dbeaver/dbeaver/releases;--
@@ -49,10 +39,9 @@
 
 ## 公开资源工具
 - https://www.onlinedoctranslator.com/    --在线文档翻译
-- https://zh.wikihow.com    --生活百科
 - https://github.com/devzwy/Crack-Edition-software-for-Mac    --各类破解版Mac软件
 - https://mirrors.huaweicloud.com/    --华为开源镜像站。w:mirrors.tuna.tsinghua.edu.cn;--
-- https://github.com/fangzesheng/free-api    --免费的接口服务。goodjob
+- https://github.com/fangzesheng/free-api    --免费的接口服务。goodjob。
 ### 短网址
 - http://xip.io/    --302 bypass，访问这个服务的任意子域名的时候，都会重定向到这个子域名。
 - https://4m.cn/    --短域名302 bypass。
@@ -80,7 +69,8 @@
 - https://www.seopojie.com    --推广链接SPAM，SEO
 - http://www.mkgzs.com    --猫客剑眉大侠SEO引流
 ### 自媒体
-- https://xmt.cn/index    --新媒体管家。135编辑器;壹伴。
+- https://xmt.cn/index    --新媒体管家。
+- https://yiban.io/    --壹伴/135编辑器
 
 # 办公套件
 - https://otp.landian.vip    --Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:/YerongAI/Office-Tool;--
@@ -109,7 +99,7 @@
 - https://www.qingjiaocloud.com/    --青椒云主机vps，一键启用。
 - https://github.com/zyx0814/dzzoffice    --Py。在线办公套件
 ### 远程协助
-- https://github.com/rustdesk/rustdesk    --rust。//远程协助软件。W:anydesk;W:Teamviewer;W:向日葵W:todesk.com;--
+- https://github.com/rustdesk/rustdesk    --rust。//远程协助软件。W:anydesk;W:Teamviewer;W:向日葵W:todesk.com;W:GoToHTTP;--
 - https://www.dell.com/en-us/shop/dell-mobile-connect/ab/dell-mobile-connect/    --电脑控制手机打电话、发短信、接收通知、传输文件等
 - https://www.airdroid.com/    --移动端手机设备控制
 ### 分身登录
@@ -135,9 +125,11 @@
 - https://casual-effects.com/markdeep/    --开源markdown编辑器。
 - https://www.microsoft.com/zh-cn/p/office-lens/    --微软文件扫描识别
 - https://pandoc.org/    --文档格式转换。greatjob。
+- https://www.cleverpdf.com/cn/pdf-converter    --PDF编辑转换工具
 - https://www.ilovepdf.com/zh-cn    --在线pdf编辑。W:pdfpai.com;W:smallpdf.com;W:edit.foxitcloud.cn;W:pdftoword.55.la;W:pdf.wondershare.com;--
 - http://www.alltoall.net/    --文本格式在线转换
 - https://etherpad.net/    --在线可编辑记事本
+- https://ncre.neea.edu.cn/html1/report/1507/861-1.htm    --WPS教育考试版
 ### 搜索引擎
 - http://www.duckduckgoog.com/    --不追踪，不误导。隐私搜索引擎。W:dogedoge.com;W:mengso.com;W:mijisou.com;--
 - https://weixin.sogou.com/weixin?type=2&query=    --微信文章搜索
@@ -163,8 +155,8 @@
 - http://ohshitgit.com/    --Intro。git操作手册。
 ### 项目同步
 - https://github.com/sjqzhang/go-fastdfs    --go。分布式文件系统(私有云存储)。
-- https://www.u-nas.cn/    --万由U-NAS操作系統，社区版。P:/群晖;P:/蜗牛星际;--
-- https://github.com/amefs/FreeNAS-Doc-Chs    --FreeNAS（网络附加存储）
+- https://www.u-nas.cn/    --万由U-NAS操作系統，社区版。
+- https://github.com/amefs/FreeNAS-Doc-Chs    --FreeNAS网络附加存储。P:群晖;P:蜗牛星际;P:oenmediavault（omv）;--
 - https://github.com/nextcloud/server    --php。基于owncloud的私有云网盘，自带同步功能。G:/owncloud/core;P:/Resilio Sync;--
 - https://github.com/canton7/SyncTrayzor    --C#。同步网盘syncthing。社区版。G:/syncthing/syncthing;P:/freefilesync.org;P:/filegee;P:/goodsync;--
 - https://blog.csdn.net/qq_39815184/article/details/78215141    --intro。如何利用Syncthing+蒲公英快速实现异地文件同步。
@@ -180,7 +172,7 @@
 - https://www.rejetto.com/hfs/    --Delphi。Windows下文件传输HFS (HTTP File Server)，http网盘存储。
 - https://github.com/svenstaro/miniserve    --多功能HTTP and WebDAV的文件共享。G:/kgretzky/pwndrop;--
 - https://github.com/schollz/croc    --Go。点对点文件传输。
-- https://github.com/micahflee/onionshare    --PHP。利用onion洋葱服务器的匿名文件共享。
+- https://github.com/onionshare/onionshare    --Py。利用onion洋葱服务器的匿名文件共享。
 - https://github.com/magic-wormhole/magic-wormhole    --基于 PAKE 协议的文件加密传输隧道
 - https://github.com/filebrowser/filebrowser    --Go。基于Caddy web服务框架的网盘文件管理器。G:/ganlvtech/down_52pojie_cn;--
 - https://github.com/Layne666/oneindex/    --php。Onedrive Directory Index，默认使用世纪互联VPS进行索引OneDrive存储。G:/qkqpttgf/OneManager-php;--
@@ -190,6 +182,7 @@
 - https://www.voidtools.com    --Everything文件和文件夹快速定位。greatjob。W:anytxt.net;--
 - https://github.com/uknowsec/SauronEye-Modify    --C#。Windows下网络驱动器文件关键字检索，支持快速查找目标终端文件并压缩打包上传OSS存储。goodjob。G:/vivami/SauronEye;--
 - https://www.mythicsoft.com    --全文检索工具。FileLocatorPro，类似于SearchMyFiles架构
+- https://github.com/sharkdp/fd    --rust。Find everything
 
 ## 素材资源
 - http://www.aigei.com/    --全资源部分免费商用
@@ -198,25 +191,49 @@
 - https://www.wondercv.com/    --简历模板生成
 - https://resume.mdedit.online/editor/#/    --在线简历。G:/hua1995116/react-resume-site;--
 ### 素材剪辑
-- https://github.com/obsproject/obs-studio    --C。用于实时流媒体和屏幕录制。官网obsproject.com。
+- https://www.gimp.org/    --图像编辑器 Photoshop开源替代。G:/tannerhelland/PhotoDemon;P:光影魔术手;--
 - https://github.com/ShareX/ShareX/    --.Net。基于FFmpeg的录频、图像处理，OCR文字识别。
-- https://github.com/tannerhelland/PhotoDemon    --Photoshop开源替代
+- https://github.com/obsproject/obs-studio    --C。用于实时流媒体和屏幕录制。官网obsproject.com。
+- http://www.shotcut.org/    --视频剪辑。P:Filmora;剪映;快剪--
 - http://live.weibo333.com/     --B站直播录制
-- http://www.shotcut.org/    --视频剪辑。P:Filmora;--
+- https://zenvideo.qq.com/    --在线剪辑 一键分发
+- https://krita.org/zh/    --开源数位板绘画软件。P:sketch;--
 - https://www.audacityteam.org/    --音频文件和波形图处理工具。P:adobe AU;--
-- https://www.gimp.org/    --图像编辑器
+- https://github.com/zcf0508/autocut-client    --autocut自动剪辑
+### 字体素材
+- https://www.hellofont.cn/    --开源字体
+### 文档素材
+1. https://www.connectedpapers.com/    --论文 文献 相似度匹配
+- https://www.jiumodiary.com/    --电子书搜索引擎
+- https://github.com/ixinzhi/pua-books    --PUA预防套装
+- https://www.cn-ki.net/    --知网/论文期刊检索下载
+- http://sci-hub.tw/    --文献、专利、书籍下载
+- https://github.com/gedoor/MyBookshelf    --Java。安卓app小说阅读器
+- http://wenku.baiduvvv.com/doc/    --文库下载
+- http://www.pptbz.com    --ppt下载
+- http://www.1ppt.com/    --无登录免费ppt下载
+- https://wantwords.net/    --清华万词王反向词典
+- https://wantquotes.net/    --清华大学计算机系自然语言处理实验室（THUNLP）据意查句
 ### 字幕素材
 - https://github.com/wxbool/video-srt-windows    --Go。识别视频语音自动生成字幕SRT文件。
 - https://ocr.xinhuokj.com/    --薪火科技在线ocr识别。W:gkocr.com;W:ocr.space;--
 ### 音频素材
+1. 文字转语音 - 多媒体工具 | 偷懒工具 https://toolight.cn/media/reading
+2. 文本转AI真人语音，免费微软AI语音 - 在线工具 - ToolB - https://toolb.cn/textspeech
+3. Microsoft Azure 本转语音下载插件 https://greasyfork.org/zh-CN/scripts/444347-azure-speech-download
+4. 在线云服务 Microsoft Azure 文本转语音：https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview
+5. 阿里云的语音合成:https://ai.aliyun.com/nls/tts
+6. 腾讯云的语音合成：https://cloud.tencent.com/product/tts
 - https://audionautix.com/    --由Jason Shaw创作和制作的免费用于商业。需提供转载声明
 - https://www.tosound.com/    --免费音频
 ### 视频素材
+1. 阿里妈妈 创意中心 - 首页 - https://chuangyi.taobao.com/
+2. https://33.agilestudio.cn/    --33台词
+3. https://33-app.agilestudio.cn/    --根据台词查找电影
 - https://pixabay.com/    --图像、视频免费使用，商用受保护
 - https://www.videezy.com/    --免费使用，商用受保护
 - https://www.pexels.com/    --图像、视频免费使用
 - https://mixkit.co/    --在线视频资源素材
-- https://33-app.agilestudio.cn/    --根据台词查找电影
 ### 图片素材
 - https://uibundle.com/    --Discover free design assets from 229 independent authors
 - https://www.canva.cn/    --平面图设计制作
@@ -232,16 +249,18 @@
 - https://world-flags.org/worldflagstoha    --动漫化国旗
 - https://github.com/sylnsfar/qrcode    --Py3。动态二维码生成器。
 - https://mp.weixin.qq.com/s/cwv3_qGr_LzsH-SbcYalWg    --以图搜图。【技巧】如何查找一个图标、符号的含义（2）
-### 字体素材
-- https://www.hellofont.cn/    --
-### 文档素材
-- https://www.jiumodiary.com/    --电子书搜索引擎
-- https://github.com/ixinzhi/pua-books    --PUA预防套装
-- https://www.cn-ki.net/    --知网/论文期刊检索下载
-- http://sci-hub.tw/    --文献、专利、书籍下载
-- https://github.com/gedoor/MyBookshelf    --Java。安卓app小说阅读器
-- http://wenku.baiduvvv.com/doc/    --文库下载
-- http://www.pptbz.com    --ppt下载
-- http://www.1ppt.com/    --无登录免费ppt下载
+
+## 小说二创
+- https://www.bjinternetcourt.gov.cn/    --北京互联网法院
+- https://basic.smartedu.cn/    --国家智慧教育公共服务平台
+- https://pdos.csail.mit.edu/archive/scigen/    --SCIgen 学术文档虚拟文件生成钓鱼
 - https://suulnnka.github.io/BullshitGenerator/index.html    --小说文章生成器。G:/menzi11/BullshitGenerator;--
-- https://www.xsxia.com/page/show_12_19.html    --小说素材生成
+- https://lovelive.tools/    --说话的艺术 渣男语录
+- https://www.xsxia.com/page/show_12_19.html    --小说侠素材生成
+- https://zh.wikihow.com    --生活百科
+- https://chaping.chayu.com/    --茶语茶评
+- 悬疑    --抖音。推理学院
+- 美食    --抖音。绵阳料理
+- http://www.zhiyuanzhongyi.com/    --中医中药
+- https://sou-yun.cn/PoemIndex.aspx    --诗词歌赋
+- https://cbaigui.com/    --纪妖 知妖
